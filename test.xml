@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CostAggregator>
+    <BBCostCalculator />
+    <TimingCalculator />
+    <CostAggregator>
+        <BBCostCalculator />
+        <TimingCalculator />
+    </CostAggregator>
+</CostAggregator>
